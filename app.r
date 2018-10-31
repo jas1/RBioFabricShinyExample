@@ -17,6 +17,7 @@ ui <- fluidPage(
     
     p("sample shinyApp to check if it deploys to shinyapps.io"),
     p("source at: "),
+    a(href="https://github.com/jas1/RBioFabricShinyExample","github:RBioFabricShinyExample"),
     
     fluidRow(
         column(width = 12, 
